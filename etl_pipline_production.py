@@ -4,7 +4,7 @@ import sys
 import os
 
 ### Specify the path where function files are stored
-wd = "D:/Projects/Python/TriviaDB"
+wd = "D:/Projects/Python/OpenTriviaDB-Analytics"
 # wd = os.getcwd()
 srcpath = os.path.join(wd,"scripts")
 
